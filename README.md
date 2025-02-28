@@ -3,8 +3,8 @@
 PassOP is a secure and efficient password manager built with **React.js**, **TailwindCSS**, and **MongoDB**. It allows users to **store, edit, delete, and copy** their passwords easily.
 
 This project includes **two versions**:  
-1️⃣ **Local Storage Version** – Runs entirely on the user's browser (no backend).  
-2️⃣ **Full-Stack Version** – Uses **Express.js** and **MongoDB** for secure password storage.
+1️⃣ **Local Storage Version** (passop)  – Runs entirely on the user's browser (no backend).  
+2️⃣ **Full-Stack Version** (passop-mongo) – Uses **Express.js** and **MongoDB** for secure password storage.
 
 ---
 
