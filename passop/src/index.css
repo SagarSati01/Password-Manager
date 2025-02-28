@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.mycontainer{
+    @apply container px-40 py-16 mx-auto ;
+}
+
+body{
+    /* background-color: white; */
+}
+
+.dark body{
+    background-color: #1a202c;
+    color:white;
+}
